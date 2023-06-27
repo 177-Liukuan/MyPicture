@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-06-27T10:26:04.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="FwKLT9Q7NV_Xgl8E8Nkq" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T11:25:30.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="jSrmLdgSwv3dLAXWc7xL" version="21.5.1" type="github">
   <diagram name="第 1 页" id="256MG54Sk1F-20BW-Hvy">
-    <mxGraphModel dx="794" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="934" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2b_SgmXAQqAMZJ8vGumf-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="190" y="40" width="390" height="390" as="geometry" />
+          <mxGeometry x="180" y="40" width="420" height="420" as="geometry" />
         </mxCell>
         <mxCell id="2b_SgmXAQqAMZJ8vGumf-2" value="人事管理系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontFamily=Architects Daughter;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="130" height="10" as="geometry" />
+          <mxGeometry x="230" y="60" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2b_SgmXAQqAMZJ8vGumf-3" value="" style="shape=actor;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="380" y="150" width="40" height="30" as="geometry" />
+          <mxGeometry x="380" y="210" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2b_SgmXAQqAMZJ8vGumf-7" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;超级管理员&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;align=left;" vertex="1" parent="1">
-          <mxGeometry x="430" y="150" width="120" height="30" as="geometry" />
+          <mxGeometry x="430" y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2b_SgmXAQqAMZJ8vGumf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="2b_SgmXAQqAMZJ8vGumf-7" target="2b_SgmXAQqAMZJ8vGumf-7">
           <mxGeometry relative="1" as="geometry" />
@@ -22,8 +22,33 @@
         <mxCell id="2b_SgmXAQqAMZJ8vGumf-10" value="" style="triangle;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2b_SgmXAQqAMZJ8vGumf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="2b_SgmXAQqAMZJ8vGumf-10" target="2b_SgmXAQqAMZJ8vGumf-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="2b_SgmXAQqAMZJ8vGumf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="2b_SgmXAQqAMZJ8vGumf-10" target="2b_SgmXAQqAMZJ8vGumf-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2b_SgmXAQqAMZJ8vGumf-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;请输入账号&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2b_SgmXAQqAMZJ8vGumf-14" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;请输入密码&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="430" y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2b_SgmXAQqAMZJ8vGumf-15" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.role_secure_access;fillColor=#CCCCCC;gradientColor=#000000;gradientDirection=south;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="385" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2b_SgmXAQqAMZJ8vGumf-16" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.access_card;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="383" y="140" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2b_SgmXAQqAMZJ8vGumf-22" value="登录" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="460" y="360" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2b_SgmXAQqAMZJ8vGumf-24" value="注册账号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Architects Daughter;" vertex="1" parent="1">
+          <mxGeometry x="370" y="330" width="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2b_SgmXAQqAMZJ8vGumf-29" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;下拉列表，可选项有超级管理员和寝室管理员&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="70" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
