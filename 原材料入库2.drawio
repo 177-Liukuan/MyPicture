@@ -1,9 +1,198 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T07:06:07.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.6.6" etag="Yu8TlO5j4DYf4B5Q38b0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T08:06:28.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sri-2XBKqk48kYhX4Smh" version="21.6.6" type="github">
   <diagram name="第 1 页" id="gkukePyoBY6HnNopG0ls">
-    <mxGraphModel>
+    <mxGraphModel dx="934" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ghk5dJPz46Y1FaudaEad-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="-100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-1" value="登录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-130" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-3" target="Ghk5dJPz46Y1FaudaEad-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-3" value="选择“原材料入库”" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="-100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-4" value="查询erp中的特定视图" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-5" target="Ghk5dJPz46Y1FaudaEad-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-5" value="加载根据视图中相关字段，加载“单号”和“入库类型”两个下拉列表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-130" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-6" target="Ghk5dJPz46Y1FaudaEad-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-23" value="点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-13">
+          <mxGeometry x="-0.1304" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-6" target="Ghk5dJPz46Y1FaudaEad-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-24" value="点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-14">
+          <mxGeometry x="-0.1202" y="-3" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-6" value="扫码" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-7" target="Ghk5dJPz46Y1FaudaEad-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-20" value="向临时中转表中插入一条记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-19">
+          <mxGeometry x="-0.2003" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-7" value="“确认”按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="470" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-8" target="Ghk5dJPz46Y1FaudaEad-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-8" value="“查看所有扫码情况”按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-21" target="Ghk5dJPz46Y1FaudaEad-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-39" value="点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-38">
+          <mxGeometry x="-0.0887" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-21" value="进入一个新的窗体，查询临时中转表所有字段" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="840" y="600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-25" target="Ghk5dJPz46Y1FaudaEad-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-25" value="进入“原材料入库”窗体" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="700" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-28" target="Ghk5dJPz46Y1FaudaEad-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-32" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-31">
+          <mxGeometry x="-0.0924" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-28" target="Ghk5dJPz46Y1FaudaEad-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-36" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-34">
+          <mxGeometry x="0.0591" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-28" value="加载成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="730" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-33" target="Ghk5dJPz46Y1FaudaEad-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-33" value="提示失败，要求向视图中插入数据后重试" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="15" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-37" target="Ghk5dJPz46Y1FaudaEad-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-46" value="将临时中转表中某些字段插入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-43">
+          <mxGeometry x="-0.1564" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-37" target="Ghk5dJPz46Y1FaudaEad-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-48" value="将临时中专表中某些字段插入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-44">
+          <mxGeometry x="-0.055" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-37" value="确认入库" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="720" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-40" target="Ghk5dJPz46Y1FaudaEad-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-40" value="wms入库表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="870" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-41" target="Ghk5dJPz46Y1FaudaEad-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-41" value="erp中间表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="870" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-49" target="Ghk5dJPz46Y1FaudaEad-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-58" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-56">
+          <mxGeometry x="-0.1325" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-49" target="Ghk5dJPz46Y1FaudaEad-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-60" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ghk5dJPz46Y1FaudaEad-59">
+          <mxGeometry x="-0.0882" y="-4" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-49" value="成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="870" y="990" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ghk5dJPz46Y1FaudaEad-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-53" value="清空临时中转表" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1010" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-54" value="提示失败原因" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="1190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-55" value="退出当前“原材料入库”窗体" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1010" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-61" value="&lt;p style=&quot;font-size: 20px;&quot;&gt;需要的材料/资料&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-62" value="1.窗体加载阶段所用的视图的数据库（是Oracel还是SQL Server）、数据库地址、登陆账号、登陆密码、数据库名称、数据表名称、视图名称、所有字段（名称和数据类型）、有效字段" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-100" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-63" value="2.临时中转表是继续使用微调后的wms第一版的中转表“Transfersation”，还是由其他前辈提供，如果是后者，请提供数据库（是Oracel还是SQL Server）、数据库地址、登陆账号、登陆密码、数据库名称、数据表名称、视图名称、所有字段（名称和数据类型）、有效字段" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-60" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-64" value="3.wms入库表的数据库（是Oracel还是SQL Server）、数据库地址、登陆账号、登陆密码、数据库名称、数据表名称、视图名称、所有字段（名称和数据类型）、有效字段" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="991" y="-10" width="840" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ghk5dJPz46Y1FaudaEad-65" value="4.erp中间表的数据库（是Oracel还是SQL Server）、数据库地址、登陆账号、登陆密码、数据库名称、数据表、视图名称、所有字段（名称和数据类型）、有效字段" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="990" y="50" width="840" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
