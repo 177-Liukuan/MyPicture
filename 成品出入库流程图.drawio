@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T09:50:57.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="bYx25zWWcen9AkMECzW5" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T15:06:41.276Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gR4yD5cZVgFpYGwM8vPY" version="21.7.2" type="github">
   <diagram name="第 1 页" id="gP-GAG-As_m-BsAceOYe">
-    <mxGraphModel dx="722" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="972" dy="1081" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,25 +150,11 @@
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-45" value="点击“开始扫描“按钮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="677.5" y="2500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-47" target="GyoaZ1GiV-DFvbZTcCoe-49" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-47" target="GyoaZ1GiV-DFvbZTcCoe-78" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="850" y="3670" />
-              <mxPoint x="1075" y="3670" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-47" value="扫码窗体初始化：根据单号，去erp中间表”wms_inaj_uc_t“中查询规格和品号" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="775" y="3120" width="420" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-49" target="GyoaZ1GiV-DFvbZTcCoe-51" edge="1">
+        <mxCell id="6pB2F_9buZ500yeAjsdP-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-49" target="GyoaZ1GiV-DFvbZTcCoe-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-49" value="扫描条码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="3150" width="207.5" height="60" as="geometry" />
+          <mxGeometry x="522.5" y="3260" width="197.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-51" target="GyoaZ1GiV-DFvbZTcCoe-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -178,26 +164,26 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.488;entryY=0.147;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-51" target="GyoaZ1GiV-DFvbZTcCoe-65" edge="1">
+        <mxCell id="6pB2F_9buZ500yeAjsdP-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-51" target="6pB2F_9buZ500yeAjsdP-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-67" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="GyoaZ1GiV-DFvbZTcCoe-66" vertex="1" connectable="0">
-          <mxGeometry x="-0.0756" y="-2" relative="1" as="geometry">
+        <mxCell id="6pB2F_9buZ500yeAjsdP-61" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6pB2F_9buZ500yeAjsdP-59">
+          <mxGeometry x="-0.2875" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-51" value="判断是否是正确的条码：&lt;br&gt;栈板码：根据条码，查询PRCBF表，是否有生产记录&lt;br&gt;SN码：根据条码，查询PRCBA表，是否有生产记录" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="580" y="3830" width="320" height="170" as="geometry" />
+        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-51" value="判断是否是正确的条码,：&lt;br&gt;栈板码：根据条码，查询PRCBF表，是否有生产记录&lt;br&gt;SN码：根据条码，查询PRCBA表，是否有生产记录" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="426.25" y="3430" width="390" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-56" target="GyoaZ1GiV-DFvbZTcCoe-49" edge="1">
+        <mxCell id="6pB2F_9buZ500yeAjsdP-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-56" target="GyoaZ1GiV-DFvbZTcCoe-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="3730" />
+              <mxPoint x="210" y="3290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-56" value="提示：提示条码不正确，要求重新扫码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="3885" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="3485" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-65" target="GyoaZ1GiV-DFvbZTcCoe-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -207,75 +193,69 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-65" target="GyoaZ1GiV-DFvbZTcCoe-70" edge="1">
+        <mxCell id="6pB2F_9buZ500yeAjsdP-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-65" target="GyoaZ1GiV-DFvbZTcCoe-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-72" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="GyoaZ1GiV-DFvbZTcCoe-71" vertex="1" connectable="0">
-          <mxGeometry x="-0.2173" y="-10" relative="1" as="geometry">
+        <mxCell id="6pB2F_9buZ500yeAjsdP-67" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6pB2F_9buZ500yeAjsdP-66">
+          <mxGeometry x="-0.18" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-65" value="判断是否是入库单号对应的产品品号和产品规格：&lt;br&gt;根据产品SN或栈板号，查询PRCBA表,与通过入库单号查询到的产品品号和规格进行比对" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="560" y="4110" width="370" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-70" target="GyoaZ1GiV-DFvbZTcCoe-74" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-70" value="查询PRCBF/PRCBA表，展示当前栈板/SN对应的部分重要信息，包括字段【品名】、字段【线体】、字段【数量】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="640" y="4370" width="210" height="110" as="geometry" />
+          <mxGeometry x="436.25" y="3830" width="370" height="170" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-73" value="更新数量提示信息" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="629" y="4880" width="230" height="70" as="geometry" />
+          <mxGeometry x="506.25" y="4330" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-74" target="GyoaZ1GiV-DFvbZTcCoe-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-74" value="向临时表TR1中插入一条/多条记录，至少包括字段【流水号】、【单据类型】、&lt;br&gt;【单据号】、【出入库类型】、【产品品号】、【产品品名】、【总数量】、【库位】、【储位】、【子位】、【规格】、【出入库日期】、【栈板号】、【产品SN】 、【出入库时间】、【操作员】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="600" y="4600" width="290" height="150" as="geometry" />
+          <mxGeometry x="476.25" y="4100" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-78" target="GyoaZ1GiV-DFvbZTcCoe-81" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="5010" />
-              <mxPoint x="640" y="5010" />
+              <mxPoint x="1307.5" y="3950" />
+              <mxPoint x="907.5" y="3950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-78" target="GyoaZ1GiV-DFvbZTcCoe-82" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="5010" />
-              <mxPoint x="920" y="5010" />
+              <mxPoint x="1307.5" y="3950" />
+              <mxPoint x="1187.5" y="3950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e45HLcg-rojvd4V5L_27-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-78" target="GyoaZ1GiV-DFvbZTcCoe-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="5010" />
-              <mxPoint x="1185" y="5010" />
+              <mxPoint x="1307.5" y="3950" />
+              <mxPoint x="1452.5" y="3950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="e45HLcg-rojvd4V5L_27-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-78" target="e45HLcg-rojvd4V5L_27-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="5010" />
-              <mxPoint x="1505" y="5010" />
+              <mxPoint x="1307.5" y="3950" />
+              <mxPoint x="1772.5" y="3950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-78" value="点击”提交“按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="960" y="4880" width="160" height="70" as="geometry" />
+          <mxGeometry x="1227.5" y="3820" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-81" value="向erp中间表插入本次入库记录，包括字段【入库单类型】、【单号】、【入库类型】、【物料编码】、【数量】、【库位】、【储位】、【日期】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6F0000;fontFamily=Helvetica;fontSize=12;fillColor=#a20025;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="530" y="5080" width="220" height="140" as="geometry" />
+        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-81" value="按照“数据表供应模板“，插入记录，每条记录的每个字段按照模板的要求进行填值" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6F0000;fontFamily=Helvetica;fontSize=12;fillColor=#a20025;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="796.5" y="4020" width="220" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-82" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;向wms出入库详情表插入本次入库记录，包括字段【流水号】、【出入库单类型】、&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【单据号】、【出&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;入库类型】、&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;产品&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Calibri&quot;&gt;SN】、 【&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;栈板号】、 【产品品号】、【产品品名】、【产品特征】、【出入库时间】、【单位】、【储位】、【子位】、【操作员】&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;align=left;" parent="1" vertex="1">
-          <mxGeometry x="800" y="5080" width="240" height="140" as="geometry" />
+          <mxGeometry x="1068.5" y="4020" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-85" value="向wms出入库信息总表插入本次入库记录，包括【流水号】、【入库单类型】、【单据号】、【入库类型】、【品号】、【数量】、【产品特征】、【库位】、【储位】、【子位】、【入库日期】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="5080" width="210" height="140" as="geometry" />
+          <mxGeometry x="1347.5" y="4020" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6pB2F_9buZ500yeAjsdP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-87" target="GyoaZ1GiV-DFvbZTcCoe-37">
           <mxGeometry relative="1" as="geometry" />
@@ -436,8 +416,15 @@
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-169" value="点击“确认“按钮，进入扫码入库窗体" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6pB2F_9buZ500yeAjsdP-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-171" target="GyoaZ1GiV-DFvbZTcCoe-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1109" y="2530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-171" value="点击”返回“按钮" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="2810" width="117.5" height="70" as="geometry" />
+          <mxGeometry x="1050" y="3090" width="117.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-175" target="GyoaZ1GiV-DFvbZTcCoe-177" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -470,7 +457,7 @@
           <mxGeometry x="1760" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e45HLcg-rojvd4V5L_27-3" value="更新/新增wms成品库存总表，包括【流水号】、【物料编码】、【数量】、【产品特征】、【库位】、【储位】、【子位】、【入库日期】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="5080" width="210" height="140" as="geometry" />
+          <mxGeometry x="1667.5" y="4020" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="e45HLcg-rojvd4V5L_27-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="e45HLcg-rojvd4V5L_27-11" target="GyoaZ1GiV-DFvbZTcCoe-180" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -854,8 +841,22 @@
         <mxCell id="6pB2F_9buZ500yeAjsdP-33" value="扫描窗体初始化根据入库单号和入库单类型，&lt;font face=&quot;宋体&quot;&gt;到&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;erp的wms_inaj_uc_t和&lt;span style=&quot;background-color: initial;&quot;&gt;dsdata.erp_imaauc_v&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: initial; font-family: 宋体; font-size: 10.5pt;&quot;&gt;，结果记录包括【规格】、【产品编码】、【品名】&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" vertex="1" parent="1">
           <mxGeometry x="618" y="2600" width="240" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="6pB2F_9buZ500yeAjsdP-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6pB2F_9buZ500yeAjsdP-36" target="GyoaZ1GiV-DFvbZTcCoe-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pB2F_9buZ500yeAjsdP-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6pB2F_9buZ500yeAjsdP-36" target="GyoaZ1GiV-DFvbZTcCoe-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pB2F_9buZ500yeAjsdP-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pB2F_9buZ500yeAjsdP-36" target="GyoaZ1GiV-DFvbZTcCoe-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="3210" />
+              <mxPoint x="1308" y="3210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6pB2F_9buZ500yeAjsdP-36" value="进入扫描窗体" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="677.5" y="2910" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="3095" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6pB2F_9buZ500yeAjsdP-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6pB2F_9buZ500yeAjsdP-37" target="6pB2F_9buZ500yeAjsdP-40">
           <mxGeometry relative="1" as="geometry" />
@@ -885,6 +886,15 @@
         </mxCell>
         <mxCell id="6pB2F_9buZ500yeAjsdP-40" value="提示：请选择正确的入库单类型并输入正确的入库单号后重试！" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="351.25" y="2755" width="117.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6pB2F_9buZ500yeAjsdP-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6pB2F_9buZ500yeAjsdP-58" target="GyoaZ1GiV-DFvbZTcCoe-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6pB2F_9buZ500yeAjsdP-58" value="展示条码对应的重要信息：分别查询PRCBF表的【BF04】、【BF28】、【规格】的字段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="508.75" y="3680" width="225" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="6pB2F_9buZ500yeAjsdP-64" value="规格想要与erp那边进行比对，wms这边【规格】的数据源是什么？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="3710" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
