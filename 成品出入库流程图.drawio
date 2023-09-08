@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T06:10:25.828Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GhXiqOJjwlJwsiQevnho" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-08T01:53:46.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="TSAcwPFpQ-8I3CNKMpIW" version="21.7.2" type="github">
   <diagram name="第 1 页" id="gP-GAG-As_m-BsAceOYe">
-    <mxGraphModel dx="1149" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1723" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,7 +613,7 @@
         <mxCell id="6pB2F_9buZ500yeAjsdP-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6pB2F_9buZ500yeAjsdP-58" target="GyoaZ1GiV-DFvbZTcCoe-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6pB2F_9buZ500yeAjsdP-58" value="展示条码对应的重要信息：分别查询PRCBF表的【BF04】、【BF28】、【规格】的字段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="6pB2F_9buZ500yeAjsdP-58" value="展示条码对应的重要信息：分别查询PRCBF表的【BF04】、【BF28】、的字段" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="508.75" y="3680" width="225" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6pB2F_9buZ500yeAjsdP-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6pB2F_9buZ500yeAjsdP-73" target="GyoaZ1GiV-DFvbZTcCoe-180" edge="1">
