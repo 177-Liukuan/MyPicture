@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-10T01:38:06.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="S2uE1aR_lbnxTLNbP3nU" version="21.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-10T03:33:23.670Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="2tQ6_axsNoku_k991Ft-" version="21.7.3" type="github">
   <diagram name="第 1 页" id="gP-GAG-As_m-BsAceOYe">
-    <mxGraphModel dx="1008" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1040" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,7 +210,7 @@
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-74" target="GyoaZ1GiV-DFvbZTcCoe-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-74" value="向临时表TR1中插入一条/多条记录，至少包括字段【流水号】、【单据类型】、&lt;br&gt;【单据号】、【出入库类型】、【产品编码】、【产品品名】、【规格】、&lt;br&gt;【栈板号】、【产品SN】&amp;nbsp;&lt;br&gt;、【库位】、【储位】、【子位】、【出入库日期】、【出入库时间】、【操作员】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-74" value="向临时表TR1中插入一条/多条记录，至少包括字段【流水号】、【单据类型】、&lt;br&gt;【单据号】、【出入库类型】、【产品编码】、【产品品名】、【规格】、【每栈数量】&lt;br&gt;【栈板号】、【产品SN】&amp;nbsp;&lt;br&gt;、【库位】、【储位】、【子位】、【出入库日期】、【操作员】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="476.25" y="4100" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-78" target="GyoaZ1GiV-DFvbZTcCoe-81" edge="1">
@@ -254,7 +254,7 @@
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-82" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;向wms出入库详情表插入本次入库记录，包括字段【流水号】、【单据类型】、&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【单据号】、【出&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;入库类型】、&lt;/font&gt;&lt;/div&gt;【产品编码】、【产品品名】、【规格】&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;【&lt;/span&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;产品&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;Calibri&quot;&gt;SN】、 【&lt;/font&gt;&lt;font style=&quot;background-color: initial;&quot; face=&quot;宋体&quot;&gt;栈板号】 、【库位】、【储位】、【子位】、【操作员】、【出入库日期】&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;align=left;" parent="1" vertex="1">
           <mxGeometry x="1068.5" y="4020" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-85" value="向wms出入库信息总表插入本次入库记录，包括【流水号】、【单据类型】、【单据号】、【出入库类型】、【产品编码】、【规格】、【数量】、【库位】、【储位】、【子位】、【出入库日期】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="GyoaZ1GiV-DFvbZTcCoe-85" value="向wms出入库信息总表插入本次入库记录，包括【单据类型】、【单据号】、【出入库类型】、【产品编码】、【规格】、【数量】、【库位】、【储位】、【子位】、【出入库日期】" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="1347.5" y="4020" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6pB2F_9buZ500yeAjsdP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GyoaZ1GiV-DFvbZTcCoe-87" target="GyoaZ1GiV-DFvbZTcCoe-37" edge="1">
@@ -334,7 +334,7 @@
         <mxCell id="GyoaZ1GiV-DFvbZTcCoe-180" value="扫描条码" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1760" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e45HLcg-rojvd4V5L_27-3" value="更新/新增wms成品库存总表，包括【流水号】、【产品编码】、【规格】、【库位】、【储位】、【子位】、【入库日期】、[数量]" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="e45HLcg-rojvd4V5L_27-3" value="更新/新增wms成品库存总表，包括【产品编码】、【规格】、【库位】、【储位】、【子位】、【入库日期】、[数量]" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#d6b656;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="1667.5" y="4020" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="e45HLcg-rojvd4V5L_27-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="e45HLcg-rojvd4V5L_27-11" target="e45HLcg-rojvd4V5L_27-13" edge="1">
