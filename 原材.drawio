@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T19:39:19.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Sj6bV_ur-6_Ulvx2PPgi" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-06T03:13:31.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="wjLoPQj5w1q84H27Sae_" version="21.8.1" type="github">
   <diagram name="第 1 页" id="y83NkZobdRAXgaIIAB2W">
-    <mxGraphModel dx="1886" dy="1734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1961" dy="1775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -946,6 +946,42 @@
         </mxCell>
         <mxCell id="ybnqtUrKmONwpiq4Dg-E-92" value="完成历史出库，自动回退至正常出库页面" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="2922" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-96" value="GetMaetrialNumList" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="1520" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-97" value="GetNumOfMaterialDanJv" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1630" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-98" value="GetNumOfMaterialDanJv" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1840" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-99" value="GetTotalnumOrMaterialName" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="2340" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-100" value="InSertToScan" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="3110" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-101" value="InSertToERP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1426" y="3120" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-102" value="UpdateStock" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1008" y="3270" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-103" value="UpdatePlan" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="3190" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-104" value="InSertToScan" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1489" y="2750" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-105" value="InSertToERP" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1801" y="2760" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-106" value="UpdateStock" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1467" y="2910" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ybnqtUrKmONwpiq4Dg-E-107" value="UpdatePlan" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="2830" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
