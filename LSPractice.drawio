@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T14:20:05.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="zR_eyY7vAW6UprJZDs9u" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-28T14:20:20.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="e6BHTNRWKPc5Ue4doyo2" version="22.0.8" type="github">
   <diagram name="第 1 页" id="yWCppMZFHAaxPfoO_EQy">
     <mxGraphModel dx="1623" dy="2105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,10 +67,10 @@
         <mxCell id="HIC51rnHH1Iu8R7tEqtq-8" value="X" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
           <mxGeometry x="-230" y="210" width="98.64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HIC51rnHH1Iu8R7tEqtq-14" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+        <mxCell id="HIC51rnHH1Iu8R7tEqtq-14" value="Y" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
           <mxGeometry x="-60" y="60" width="98.64" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HIC51rnHH1Iu8R7tEqtq-17" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
+        <mxCell id="HIC51rnHH1Iu8R7tEqtq-17" value="Z" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Router_VPN.svg;" vertex="1" parent="1">
           <mxGeometry x="-310" y="-60" width="98.64" height="70" as="geometry" />
         </mxCell>
       </root>
