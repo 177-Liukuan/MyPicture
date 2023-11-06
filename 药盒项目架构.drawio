@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T13:42:22.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="B7mkrIMPbtmZnQkytNei" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T13:47:33.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="ciID0dNfmJ285A-kNiaX" version="22.0.8" type="github">
   <diagram name="第 1 页" id="rbtluQ0g3gsyuVAGRLtw">
     <mxGraphModel dx="1173" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hy1Hl5cKsVYk31SHtU6z-21" value="个人电脑&lt;br&gt;医院后台管理Web端" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="490.0000000000001" y="-450" width="98.59" height="100" as="geometry" />
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-21" value="个人电脑&lt;br&gt;医院后台管理Web端" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Laptop.svg;flipH=1;imageBorder=none;imageBackground=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400.0000000000001" y="-450" width="98.59" height="100" as="geometry" />
         </mxCell>
         <mxCell id="hy1Hl5cKsVYk31SHtU6z-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hy1Hl5cKsVYk31SHtU6z-26" target="hy1Hl5cKsVYk31SHtU6z-53">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="hy1Hl5cKsVYk31SHtU6z-75" value="数据持久化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-29">
           <mxGeometry x="0.0482" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-30" y="-70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hy1Hl5cKsVYk31SHtU6z-30" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.992;exitY=0.439;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="hy1Hl5cKsVYk31SHtU6z-34" target="hy1Hl5cKsVYk31SHtU6z-36">
@@ -46,9 +46,14 @@
             <mxPoint x="968" y="-281.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hy1Hl5cKsVYk31SHtU6z-67" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-33">
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-67" value="管理用药信息、设置用药提醒" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-33">
           <mxGeometry x="0.0255" y="-4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-12" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-87" value="对各种用药参数进行反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-33">
+          <mxGeometry x="-0.0777" y="-1" relative="1" as="geometry">
+            <mxPoint x="6" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hy1Hl5cKsVYk31SHtU6z-34" value="腾讯云" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
@@ -63,14 +68,14 @@
             <mxPoint x="560" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hy1Hl5cKsVYk31SHtU6z-72" value="管理用药信息、设置用药提醒" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-44">
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-72" value="管理用药信息、设置用药提醒" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=30;" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-44">
           <mxGeometry x="-0.025" y="6" relative="1" as="geometry">
-            <mxPoint x="-7" y="-46" as="offset" />
+            <mxPoint x="-7" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hy1Hl5cKsVYk31SHtU6z-73" value="对各种用药参数进行反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-44">
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-73" value="对各种用药参数进行反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=30;" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-44">
           <mxGeometry x="0.1587" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-66" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hy1Hl5cKsVYk31SHtU6z-60" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hy1Hl5cKsVYk31SHtU6z-48" target="hy1Hl5cKsVYk31SHtU6z-36">
@@ -111,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hy1Hl5cKsVYk31SHtU6z-77" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-55">
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-77" value="运维" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-55">
           <mxGeometry x="-0.1725" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -141,6 +146,30 @@
               <mxPoint x="730" y="-346" />
               <mxPoint x="730" y="-346" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-78" value="对用药方案进行设置" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-58">
+          <mxGeometry x="0.1767" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-83" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hy1Hl5cKsVYk31SHtU6z-80" target="hy1Hl5cKsVYk31SHtU6z-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-85" value="开发/更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-83">
+          <mxGeometry x="0.1117" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-80" value="开发人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-630" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-81" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hy1Hl5cKsVYk31SHtU6z-80" target="hy1Hl5cKsVYk31SHtU6z-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hy1Hl5cKsVYk31SHtU6z-84" value="开发/更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hy1Hl5cKsVYk31SHtU6z-81">
+          <mxGeometry x="-0.2" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
