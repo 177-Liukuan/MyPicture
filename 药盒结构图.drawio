@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T10:08:10.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.11" etag="vMZ7FxEJtHHkHr9qKla4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T10:27:44.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="V5lRhOO6RsR_Kni8b903" version="22.1.11" type="github">
   <diagram name="第 1 页" id="oifoqSgytJH1d8RTotBy">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kRe4AcJ-rxd0l4WnUEL7-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="600" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kRe4AcJ-rxd0l4WnUEL7-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;智能药盒&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kRe4AcJ-rxd0l4WnUEL7-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;微信小程序&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kRe4AcJ-rxd0l4WnUEL7-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;慢性病管理系统&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=none;glass=0;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kRe4AcJ-rxd0l4WnUEL7-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="600" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="kRe4AcJ-rxd0l4WnUEL7-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;功能管理&lt;/font&gt;&lt;/font&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="520" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kRe4AcJ-rxd0l4WnUEL7-10" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.43;dx=27.33;direction=south;notch=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="130" width="40" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
