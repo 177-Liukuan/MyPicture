@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T01:33:31.766Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="r1eKye081JoU53tc7D7I" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T01:57:09.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="THjmtFdvlGCAZXAYiGYI" version="22.1.11" type="github">
   <diagram name="第 1 页" id="YmEcrmGpHDLL9LgO9fGX">
-    <mxGraphModel dx="1623" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="1310" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="Xool3pEgONQbMumqACIe-1" value="X&amp;nbsp; &amp;nbsp; XX&amp;nbsp; &amp;nbsp; XX&amp;nbsp; &amp;nbsp; XX&amp;nbsp; &amp;nbsp; XXXXX&amp;nbsp; &amp;nbsp; XXXX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="-57" y="220" width="536" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Xool3pEgONQbMumqACIe-3" value="d XX XX XX XXXXX XXXX" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="100" y="50" width="536" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Xool3pEgONQbMumqACIe-13" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.476;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Xool3pEgONQbMumqACIe-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -95,11 +92,23 @@
         <mxCell id="Xool3pEgONQbMumqACIe-23" value="日" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="520" y="380" width="340" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Xool3pEgONQbMumqACIe-24" value="时间戳，参考时间是系统投入使用的第一天的0:00:00:00" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="Xool3pEgONQbMumqACIe-24" value="时间戳，参考时间是每一天的00:00:00:00" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="520" y="340" width="540" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Xool3pEgONQbMumqACIe-25" value="订单序号，我们认为1s内至多不会超过1w个订单" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="520" y="300" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Xool3pEgONQbMumqACIe-26" value="eg:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xool3pEgONQbMumqACIe-28" value="D231219863990004" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="536" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xool3pEgONQbMumqACIe-29" value="此订单是一个订房订单，订单下单是时间是2023年12月19日23时59分59秒，这是当前秒的第4个订单" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="160" y="700" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xool3pEgONQbMumqACIe-31" value="解释：" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="60" y="700" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
