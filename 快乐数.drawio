@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T14:08:41.611Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.11" etag="ol0pixbTKieRaaNN7aIr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T14:31:05.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HAQaqVQHkMWtyrEXEQfV" version="22.1.11" type="github">
   <diagram name="第 1 页" id="n8gh3igKdaO5uhaC8ERB">
-    <mxGraphModel>
+    <mxGraphModel dx="1173" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-1" value="已迭代的结果集合" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="650" y="130" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-2" value="本题的核心是要理解何为“快乐数”，在判定一个数是不是“快乐数”的迭代步骤中，如果sum出现了此前迭代中的都一项，我们就没有必要迭代下去了，因为后面的迭代是循环，是对此前迭代的重复" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-180" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-4" value="对于每一次迭代的结果，如果在此前的迭代中出现过，且为1，那么我们可以判定此数为快乐数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-20" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;我们要判断，当前的迭代结果，是否在此前的迭代结果集合中出现，而因为哈希法查询的时间复杂度是O（1），&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;这便是我们想到可以使用“哈希法”，发挥其优势的切入点.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-170" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uebJWBE_5V3VUWW7Wclp-7" target="uebJWBE_5V3VUWW7Wclp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-7" value="当前步的迭代结果（sum）" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-10" value="快乐数" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="645" y="494.5" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uebJWBE_5V3VUWW7Wclp-12" target="uebJWBE_5V3VUWW7Wclp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-16" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uebJWBE_5V3VUWW7Wclp-15">
+          <mxGeometry x="-0.0335" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-12" value="是否是1" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
+          <mxGeometry x="650" y="310" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.527;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uebJWBE_5V3VUWW7Wclp-1" target="uebJWBE_5V3VUWW7Wclp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=160;entryDy=55;entryPerimeter=0;" edge="1" parent="1" source="uebJWBE_5V3VUWW7Wclp-12" target="uebJWBE_5V3VUWW7Wclp-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="355" />
+              <mxPoint x="960" y="185" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-18" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uebJWBE_5V3VUWW7Wclp-17">
+          <mxGeometry x="-0.6556" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-19" value="存储起来" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-20" value="输出结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
