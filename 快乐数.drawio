@@ -1,26 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2023-12-23T14:31:05.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HAQaqVQHkMWtyrEXEQfV" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T14:36:24.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2KuxDZImu9X2Yn1sWMV_" version="22.1.11" type="github">
   <diagram name="第 1 页" id="n8gh3igKdaO5uhaC8ERB">
-    <mxGraphModel dx="1173" dy="1834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1676" dy="2119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uebJWBE_5V3VUWW7Wclp-28" target="uebJWBE_5V3VUWW7Wclp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-28" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="184" y="315" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uebJWBE_5V3VUWW7Wclp-24" target="uebJWBE_5V3VUWW7Wclp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-24" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-30" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uebJWBE_5V3VUWW7Wclp-21" target="uebJWBE_5V3VUWW7Wclp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-21" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="439.5" width="400" height="200" as="geometry" />
+        </mxCell>
         <mxCell id="uebJWBE_5V3VUWW7Wclp-1" value="已迭代的结果集合" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="650" y="130" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="uebJWBE_5V3VUWW7Wclp-2" value="本题的核心是要理解何为“快乐数”，在判定一个数是不是“快乐数”的迭代步骤中，如果sum出现了此前迭代中的都一项，我们就没有必要迭代下去了，因为后面的迭代是循环，是对此前迭代的重复" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="-180" width="260" height="120" as="geometry" />
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-2" value="本题的核心是要理解何为“快乐数”，在判定一个数是不是“快乐数”的迭代步骤中，如果sum出现了此前迭代中的都一项，我们就没有必要迭代下去了，因为后面的迭代是循环，是对此前迭代的重复" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="479" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uebJWBE_5V3VUWW7Wclp-4" value="对于每一次迭代的结果，如果在此前的迭代中出现过，且为1，那么我们可以判定此数为快乐数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-20" width="190" height="60" as="geometry" />
+          <mxGeometry x="238" y="325" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uebJWBE_5V3VUWW7Wclp-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;我们要判断，当前的迭代结果，是否在此前的迭代结果集合中出现，而因为哈希法查询的时间复杂度是O（1），&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;这便是我们想到可以使用“哈希法”，发挥其优势的切入点.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-170" width="290" height="70" as="geometry" />
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;我们要判断，当前的迭代结果，是否在此前的迭代结果集合中出现，而因为哈希法查询的时间复杂度是O（1），&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;这便使我们想到可以使用“哈希法”，要发挥其优势的切入点.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="-10" width="290" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uebJWBE_5V3VUWW7Wclp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uebJWBE_5V3VUWW7Wclp-7" target="uebJWBE_5V3VUWW7Wclp-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uebJWBE_5V3VUWW7Wclp-7" value="当前步的迭代结果（sum）" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="160" height="90" as="geometry" />
+          <mxGeometry x="250" y="130" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uebJWBE_5V3VUWW7Wclp-10" value="快乐数" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="645" y="494.5" width="160" height="90" as="geometry" />
@@ -57,6 +75,17 @@
         </mxCell>
         <mxCell id="uebJWBE_5V3VUWW7Wclp-20" value="输出结果" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=4;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="760" as="sourcePoint" />
+            <mxPoint x="370" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uebJWBE_5V3VUWW7Wclp-32" value="入口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uebJWBE_5V3VUWW7Wclp-31">
+          <mxGeometry x="-0.2944" y="-8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
