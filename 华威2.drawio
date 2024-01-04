@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T05:13:29.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="jHYXrKN9dRlSz7pW6Skb" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T07:08:38.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="3PGBPrqxAaPPgHgfhxy1" version="22.1.16" type="github">
   <diagram name="第 1 页" id="77szF1jyZKYPrpToGMBW">
-    <mxGraphModel dx="2846" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2112" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,13 +29,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i4SUyxcihNLNijWqHPjk-9" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="99.53000000000003" y="360" width="40.95" height="125.63" as="geometry" />
+          <mxGeometry x="-9.999999999999972" y="344.37" width="40.95" height="125.63" as="geometry" />
         </mxCell>
         <mxCell id="i4SUyxcihNLNijWqHPjk-11" value="P1&lt;br&gt;下料排产" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40.000000000000014" y="250" width="160" height="50" as="geometry" />
+          <mxGeometry x="-89.99999999999999" y="230" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="i4SUyxcihNLNijWqHPjk-12" value="技术部excel" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="580" y="87.19" width="40.95" height="125.63" as="geometry" />
+        <mxCell id="i4SUyxcihNLNijWqHPjk-12" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="581" y="87.19" width="40.95" height="125.63" as="geometry" />
         </mxCell>
         <mxCell id="i4SUyxcihNLNijWqHPjk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="i4SUyxcihNLNijWqHPjk-12" target="i4SUyxcihNLNijWqHPjk-1">
           <mxGeometry relative="1" as="geometry">
@@ -149,10 +149,13 @@
           <mxGeometry x="-10" y="470" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="i4SUyxcihNLNijWqHPjk-51" value="BOM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="290" y="430" width="60" height="80" as="geometry" />
+          <mxGeometry x="350" y="367.18" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i4SUyxcihNLNijWqHPjk-52" value="人工干预与修正" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="290" y="550" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i4SUyxcihNLNijWqHPjk-54" value="技术部excel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="571.47" y="135.01" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
