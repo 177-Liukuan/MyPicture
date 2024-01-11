@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T19:28:34.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="JW5q_WV7sW0WvpPxYd9W" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-11T19:37:09.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="NOkdX50o1ayX1VS--zTf" version="22.1.18" type="github">
   <diagram name="第 1 页" id="4IFOPBYyILPmVdFlVZ0o">
     <mxGraphModel dx="3120" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,17 +10,41 @@
         <mxCell id="qmQETzFxq6Im5JeFmhBt-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;云&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-4">
           <mxGeometry x="10" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qmQETzFxq6Im5JeFmhBt-11" value="SQL数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-4">
-          <mxGeometry x="300" y="110" width="60" height="80" as="geometry" />
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-46" value="文件系统" style="shape=mxgraph.cisco.storage.relational_database;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-4">
+          <mxGeometry x="60" y="50" width="66" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="qmQETzFxq6Im5JeFmhBt-12" value="文件系统" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-4">
-          <mxGeometry x="120" y="110" width="60" height="80" as="geometry" />
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-47" value="SQL数据库" style="shape=mxgraph.cisco.storage.relational_database;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-4">
+          <mxGeometry x="310" y="50" width="66" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qmQETzFxq6Im5JeFmhBt-7" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry y="480" width="400" height="300" as="geometry" />
+          <mxGeometry y="500" width="400" height="500" as="geometry" />
         </mxCell>
         <mxCell id="qmQETzFxq6Im5JeFmhBt-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;现行MES&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-7">
           <mxGeometry x="20" y="20" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qmQETzFxq6Im5JeFmhBt-7" source="qmQETzFxq6Im5JeFmhBt-48" target="qmQETzFxq6Im5JeFmhBt-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-48" value="具备浏览器的智能设备" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-7">
+          <mxGeometry x="60" y="110" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-49" value="Broswer" style="image;html=1;image=img/lib/clip_art/general/Earth_globe_128x128.png" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-7">
+          <mxGeometry x="240" y="105" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-51" value="Mes系统的MySQL数据库" style="shape=mxgraph.cisco.storage.relational_database;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-7">
+          <mxGeometry x="247" y="260" width="66" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qmQETzFxq6Im5JeFmhBt-7" source="qmQETzFxq6Im5JeFmhBt-49" target="qmQETzFxq6Im5JeFmhBt-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-53" value="目前不清楚：&lt;br&gt;（1）贵公司的MySQL数据库在哪？（2）是外包还是自己管理和维护？&lt;br&gt;（3）能否给予我们操作（主要是查）的权限" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-7">
+          <mxGeometry x="100" y="440" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="qmQETzFxq6Im5JeFmhBt-7" source="qmQETzFxq6Im5JeFmhBt-53" target="qmQETzFxq6Im5JeFmhBt-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmQETzFxq6Im5JeFmhBt-52" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="qmQETzFxq6Im5JeFmhBt-7">
+          <mxGeometry x="330" y="400" width="41" height="78" as="geometry" />
         </mxCell>
         <mxCell id="qmQETzFxq6Im5JeFmhBt-9" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="480" width="400" height="300" as="geometry" />
