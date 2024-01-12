@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-12T01:37:33.672Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="d1zRnMrjs4hmxhE3rsj8" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-12T01:40:46.030Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="kR3uH1Y_dimhMEmfceMT" version="22.1.18" type="github">
   <diagram name="第 1 页" id="4IFOPBYyILPmVdFlVZ0o">
-    <mxGraphModel dx="2211" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2827" dy="1868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -361,8 +361,8 @@
             <mxPoint x="18" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q64CMzPY_aslYk7ZhOqc-34" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q64CMzPY_aslYk7ZhOqc-14">
-          <mxGeometry x="40" y="400" width="110" height="60" as="geometry" />
+        <mxCell id="q64CMzPY_aslYk7ZhOqc-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q64CMzPY_aslYk7ZhOqc-14">
+          <mxGeometry x="20" y="400" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q64CMzPY_aslYk7ZhOqc-35" value="ASP.NET Core7.0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="q64CMzPY_aslYk7ZhOqc-14">
           <mxGeometry x="195" y="400" width="110" height="60" as="geometry" />
@@ -400,9 +400,9 @@
             <mxPoint x="410" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q64CMzPY_aslYk7ZhOqc-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="q64CMzPY_aslYk7ZhOqc-14">
+        <mxCell id="q64CMzPY_aslYk7ZhOqc-52" value="" style="endArrow=classic;html=1;rounded=0;startArrow=classic;startFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="q64CMzPY_aslYk7ZhOqc-14" target="q64CMzPY_aslYk7ZhOqc-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="429.5" as="sourcePoint" />
+            <mxPoint x="170" y="430" as="sourcePoint" />
             <mxPoint x="190" y="429.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -427,6 +427,12 @@
           <mxGeometry x="-0.0127" y="-2" relative="1" as="geometry">
             <mxPoint x="-22" y="-4" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q64CMzPY_aslYk7ZhOqc-58" value="RESTful API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="q64CMzPY_aslYk7ZhOqc-14">
+          <mxGeometry x="30" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q64CMzPY_aslYk7ZhOqc-60" value="WebService" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="q64CMzPY_aslYk7ZhOqc-14">
+          <mxGeometry x="100" y="415" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
