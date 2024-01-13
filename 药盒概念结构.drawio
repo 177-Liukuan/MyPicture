@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-13T18:34:19.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="XXSi_ooDcc1CiYtqgl-s" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-13T18:34:43.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="7EnNvT-57xG2rVTczsnJ" version="22.1.18" type="github">
   <diagram name="第 1 页" id="cKdhumA12I_itok_waJF">
-    <mxGraphModel dx="1384" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2489" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,10 +167,10 @@
           <mxGeometry x="-330" y="1010" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-0LPwhqSW8rv4k6iT90b-9" value="药仓编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="820" width="90" height="40" as="geometry" />
+          <mxGeometry x="-320" y="850" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-0LPwhqSW8rv4k6iT90b-10" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="720" width="90" height="40" as="geometry" />
+          <mxGeometry x="-280" y="730" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-0LPwhqSW8rv4k6iT90b-11" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="700" width="90" height="40" as="geometry" />
