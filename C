@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T17:25:29.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" version="24.0.5" etag="CnQnba_1QczE-HbVQKdP" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T17:37:53.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="3LwLN5D9Hp9IJukflkew" version="24.0.5" type="github">
   <diagram name="第 1 页" id="XUujRagv9cYUbPnBjy5k">
-    <mxGraphModel>
+    <mxGraphModel dx="1427" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-10" value="交互" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="83.78" width="370" height="346.22" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="83.78" width="370" height="346.22" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="481.55" y="280" width="76.9" height="93.78" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="oz-06dK-q7r6b8C2L1pK-6" target="oz-06dK-q7r6b8C2L1pK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-16" value="访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oz-06dK-q7r6b8C2L1pK-13">
+          <mxGeometry x="0.1675" y="4" relative="1" as="geometry">
+            <mxPoint x="9" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oz-06dK-q7r6b8C2L1pK-6" target="oz-06dK-q7r6b8C2L1pK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-6" value="SQL Server2022" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.data;" vertex="1" parent="1">
+          <mxGeometry x="600" y="130" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-7" value="腾讯云服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oz-06dK-q7r6b8C2L1pK-12" target="oz-06dK-q7r6b8C2L1pK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-15" value="部署" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oz-06dK-q7r6b8C2L1pK-14">
+          <mxGeometry x="-0.0933" y="4" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-12" value="后端程序" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-17" value="Client" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;entryX=0.02;entryY=0.458;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="oz-06dK-q7r6b8C2L1pK-18" target="oz-06dK-q7r6b8C2L1pK-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="330" />
+              <mxPoint x="970" y="203" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-18" value="Winform" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="oz-06dK-q7r6b8C2L1pK-18" target="oz-06dK-q7r6b8C2L1pK-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="480" as="sourcePoint" />
+            <mxPoint x="550" y="430" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-22" value="Web服务器" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="468.45000000000005" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-24" value="User" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="180" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oz-06dK-q7r6b8C2L1pK-25" value="API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="659.9964705882356" y="310" as="geometry">
+            <mxPoint y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
