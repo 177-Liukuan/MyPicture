@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T12:59:21.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YO0eQ-u3KZNf9Chm69Mu" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T13:00:23.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Yrv4Umz8Xty8Olihd44P" version="24.2.1" type="github">
   <diagram name="第 1 页" id="GwWL48kWU6Y4ENLvr92-">
     <mxGraphModel dx="1221" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZooSclxC4xJhElzUtcn8-13" value="出入库单据号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZooSclxC4xJhElzUtcn8-9">
+        <mxCell id="ZooSclxC4xJhElzUtcn8-13" value="各类出入库单据号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZooSclxC4xJhElzUtcn8-9">
           <mxGeometry x="0.0167" relative="1" as="geometry">
             <mxPoint x="-10" y="-52" as="offset" />
           </mxGeometry>
