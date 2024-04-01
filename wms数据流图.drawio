@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T13:44:44.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OXLP6ac4c2Hn1bqmWnMy" version="24.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T13:47:17.875Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KDQJUgBlZzQPA1TDv8r1" version="24.2.1" type="github">
   <diagram name="第 1 页" id="GwWL48kWU6Y4ENLvr92-">
     <mxGraphModel dx="1221" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,25 +13,28 @@
         <mxCell id="ZooSclxC4xJhElzUtcn8-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="190" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZooSclxC4xJhElzUtcn8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-5" target="ZooSclxC4xJhElzUtcn8-6">
+        <mxCell id="ZooSclxC4xJhElzUtcn8-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-5" target="ZooSclxC4xJhElzUtcn8-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="500" y="235" />
+              <mxPoint x="620" y="150" />
+              <mxPoint x="680" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZooSclxC4xJhElzUtcn8-13" value="各类出入库单据号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZooSclxC4xJhElzUtcn8-9">
-          <mxGeometry x="0.0167" relative="1" as="geometry">
-            <mxPoint x="-10" y="-52" as="offset" />
+        <mxCell id="ZooSclxC4xJhElzUtcn8-105" value="各类出入库单单据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZooSclxC4xJhElzUtcn8-104">
+          <mxGeometry x="-0.0889" y="-2" relative="1" as="geometry">
+            <mxPoint x="22" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-5" value="ERP系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="60" width="120" height="50" as="geometry" />
+          <mxGeometry x="560" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ZooSclxC4xJhElzUtcn8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-6" target="ZooSclxC4xJhElzUtcn8-10">
+        <mxCell id="ZooSclxC4xJhElzUtcn8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-6" target="ZooSclxC4xJhElzUtcn8-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="835" y="235" />
+              <mxPoint x="770" y="235" />
+              <mxPoint x="770" y="130" />
+              <mxPoint x="810" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -41,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-6" value="申请出入库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="200" width="100" height="70" as="geometry" />
+          <mxGeometry x="630" y="200" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-10">
           <mxGeometry relative="1" as="geometry">
@@ -73,39 +76,41 @@
         <mxCell id="ZooSclxC4xJhElzUtcn8-10" value="出入库信息视图" style="html=1;dashed=0;whiteSpace=wrap;shape=partialRectangle;right=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="110" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZooSclxC4xJhElzUtcn8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-14" target="ZooSclxC4xJhElzUtcn8-16">
+        <mxCell id="ZooSclxC4xJhElzUtcn8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="585" y="520" as="sourcePoint" />
+            <mxPoint x="655" y="375" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="460" y="375" />
+              <mxPoint x="585" y="375" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-31" value="生产信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZooSclxC4xJhElzUtcn8-30">
           <mxGeometry x="-0.0667" relative="1" as="geometry">
-            <mxPoint x="-10" y="67" as="offset" />
+            <mxPoint x="-10" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZooSclxC4xJhElzUtcn8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-14" target="ZooSclxC4xJhElzUtcn8-16">
+        <mxCell id="ZooSclxC4xJhElzUtcn8-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-14" target="ZooSclxC4xJhElzUtcn8-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="430" />
-              <mxPoint x="610" y="430" />
+              <mxPoint x="610" y="465" />
+              <mxPoint x="645" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZooSclxC4xJhElzUtcn8-33" value="装栈信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZooSclxC4xJhElzUtcn8-32">
-          <mxGeometry x="-0.7371" y="-2" relative="1" as="geometry">
-            <mxPoint x="-12" y="-10" as="offset" />
+        <mxCell id="ZooSclxC4xJhElzUtcn8-107" value="装栈信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZooSclxC4xJhElzUtcn8-106">
+          <mxGeometry x="0.5145" y="4" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-14" value="MES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="520" width="120" height="50" as="geometry" />
+          <mxGeometry x="560" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-16" target="ZooSclxC4xJhElzUtcn8-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-16" value="成品PDA扫码入库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="340" width="100" height="70" as="geometry" />
+          <mxGeometry x="630" y="340" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZooSclxC4xJhElzUtcn8-19" target="ZooSclxC4xJhElzUtcn8-43">
           <mxGeometry relative="1" as="geometry" />
@@ -226,7 +231,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="770" y="320" />
-              <mxPoint x="610" y="320" />
+              <mxPoint x="680" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -243,7 +248,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-72" value="成品入库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="690" y="310" as="geometry" />
+          <mxGeometry x="730" y="310" as="geometry" />
         </mxCell>
         <mxCell id="ZooSclxC4xJhElzUtcn8-73" value="原材料入库信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="860" y="340.00000000000017" as="geometry">
