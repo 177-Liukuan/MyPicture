@@ -1,69 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T10:13:37.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="_unOAKsTYuAHbMpaPJPo" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T09:12:19.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="auHsdxqMQ9l_PaHGyr3_" version="24.2.2" type="github">
   <diagram name="第 1 页" id="mNgcgmbKDLRNNYd37wwF">
-    <mxGraphModel dx="1173" dy="665" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="665" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-1" value="" style="whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-1" value="" style="whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="180" width="560" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;fontColor=default;shadow=1;" vertex="1" parent="1">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="200" width="520" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-3" value="Winform窗体" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;shadow=1;" vertex="1" parent="1">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-3" value="Winform窗体" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="215" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;labelBackgroundColor=none;fontColor=default;shadow=1;" edge="1" parent="1" source="sevxCLmrLz2VCmdMu4l4-5" target="sevxCLmrLz2VCmdMu4l4-3">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;labelBackgroundColor=none;fontColor=default;shadow=1;" parent="1" source="sevxCLmrLz2VCmdMu4l4-5" target="sevxCLmrLz2VCmdMu4l4-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-5" value=" ADO.NET" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;shadow=1;" vertex="1" parent="1">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-5" value=" ADO.NET" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=default;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="215" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;labelBackgroundColor=none;fontColor=#333333;shadow=1;" vertex="1" parent="1">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-7" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="360" width="520" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-17" value="&lt;font style=&quot;font-weight: normal; font-size: 12px;&quot;&gt;SQL Server2016数据库&lt;/font&gt;" style="shape=mxgraph.cisco.storage.relational_database;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;fontColor=default;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="380" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-20" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="520" width="520" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;shadow=1;" edge="1" parent="1" source="sevxCLmrLz2VCmdMu4l4-21" target="sevxCLmrLz2VCmdMu4l4-22">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=3;shadow=1;" parent="1" source="sevxCLmrLz2VCmdMu4l4-21" target="sevxCLmrLz2VCmdMu4l4-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-21" value="基于WebService的服务端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-21" value="&lt;br&gt;&lt;br&gt;基于WebService的服务端" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="540" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-22" value="C#客户端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-22" value="C#客户端" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="540" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-23" value="PC端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="210" width="40" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-24" value="数据存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;shadow=1;" vertex="1" parent="1">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-24" value="企业现行系统&lt;br&gt;&lt;div&gt;与数据存储&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;shadow=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="610" y="370" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-25" value="PDA端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="530" width="50" height="100" as="geometry" />
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-25" value="WMS&lt;br&gt;PDA端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="530" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-30" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Oracel数据库&lt;/span&gt;&lt;/font&gt;" style="shape=mxgraph.cisco.storage.relational_database;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=16;fontStyle=1;labelBackgroundColor=none;fontColor=default;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="380" width="50" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;width=6;startSize=1.89;endSize=1.89;strokeWidth=3;endWidth=15;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;labelBackgroundColor=none;fontColor=default;shadow=1;" edge="1" parent="1" source="sevxCLmrLz2VCmdMu4l4-5">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;width=6;startSize=1.89;endSize=1.89;strokeWidth=3;endWidth=15;labelBackgroundColor=none;fontColor=default;shadow=1;" parent="1" source="sevxCLmrLz2VCmdMu4l4-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;width=6;startSize=1.89;endSize=1.89;strokeWidth=3;endWidth=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" edge="1" parent="1" target="sevxCLmrLz2VCmdMu4l4-21">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;shape=flexArrow;width=6;startSize=1.89;endSize=1.89;strokeWidth=3;endWidth=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="sevxCLmrLz2VCmdMu4l4-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="480" as="sourcePoint" />
             <mxPoint x="260" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sevxCLmrLz2VCmdMu4l4-40" value="XML" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=default;" vertex="1" connectable="0" parent="sevxCLmrLz2VCmdMu4l4-38">
+        <mxCell id="sevxCLmrLz2VCmdMu4l4-40" value="XML" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=default;" parent="sevxCLmrLz2VCmdMu4l4-38" vertex="1" connectable="0">
           <mxGeometry x="0.0524" y="-2" relative="1" as="geometry">
             <mxPoint x="22" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-1" value="ADO.NET" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="550" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-3" value="SQL&lt;br&gt;Server2016" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="200" y="380" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-5" value="MES" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="410" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-7" value="Oracle" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="430" y="380" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-8" value="ERP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-10" value="WMS&lt;br&gt;PC端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="210" width="40" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
