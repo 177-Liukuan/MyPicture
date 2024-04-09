@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T09:12:19.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="auHsdxqMQ9l_PaHGyr3_" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-09T11:33:09.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Fl3zdD37J3D1L9v3O7jn" version="24.2.2" type="github">
   <diagram name="第 1 页" id="mNgcgmbKDLRNNYd37wwF">
-    <mxGraphModel dx="1213" dy="665" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2849" dy="1108" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,6 +79,55 @@
         </mxCell>
         <mxCell id="IpkagGo2ZzvJ-UYiRFWt-10" value="WMS&lt;br&gt;PC端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="210" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="IpkagGo2ZzvJ-UYiRFWt-11" target="IpkagGo2ZzvJ-UYiRFWt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-15" value="获取数据库服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="IpkagGo2ZzvJ-UYiRFWt-14">
+          <mxGeometry x="-0.0974" y="3" relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="IpkagGo2ZzvJ-UYiRFWt-11" target="IpkagGo2ZzvJ-UYiRFWt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-22" value="可选" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpkagGo2ZzvJ-UYiRFWt-21">
+          <mxGeometry x="-0.3061" y="-3" relative="1" as="geometry">
+            <mxPoint x="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-11" value="桌面应用" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="IpkagGo2ZzvJ-UYiRFWt-12" target="IpkagGo2ZzvJ-UYiRFWt-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-18" value="受制于硬件设备操作系统版本时" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpkagGo2ZzvJ-UYiRFWt-17">
+          <mxGeometry x="-0.1905" y="3" relative="1" as="geometry">
+            <mxPoint x="15" y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-23" value="必须使用中间件通信" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpkagGo2ZzvJ-UYiRFWt-17">
+          <mxGeometry x="-0.1535" y="1" relative="1" as="geometry">
+            <mxPoint x="11" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-12" value="PDA应用" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-13" value="数据库" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="IpkagGo2ZzvJ-UYiRFWt-16" target="IpkagGo2ZzvJ-UYiRFWt-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-20" value="获取数据库服务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IpkagGo2ZzvJ-UYiRFWt-19">
+          <mxGeometry x="0.1846" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IpkagGo2ZzvJ-UYiRFWt-16" value="WebService" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="990" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
