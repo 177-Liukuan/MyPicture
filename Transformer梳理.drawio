@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.2">
   <diagram name="第 1 页" id="QCnMNvy4xfGkCYMw_IiZ">
-    <mxGraphModel dx="1495" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,13 +40,13 @@
         <mxCell id="9xCyHjS_sL2JFI7Uv4ho-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9xCyHjS_sL2JFI7Uv4ho-10" target="9xCyHjS_sL2JFI7Uv4ho-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9xCyHjS_sL2JFI7Uv4ho-10" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;掩码填充操作：对源序列分词的较短句子进行填充操作，方便后续在进行批训练时执行矩阵运算&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9xCyHjS_sL2JFI7Uv4ho-10" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;填充掩蔽操作：根据源序列分词的较短句子进行填充结果生成掩码矩阵，方便后续在进行批训练时执行矩阵运算&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="130" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9xCyHjS_sL2JFI7Uv4ho-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9xCyHjS_sL2JFI7Uv4ho-11" target="9xCyHjS_sL2JFI7Uv4ho-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9xCyHjS_sL2JFI7Uv4ho-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;非法数据掩蔽操作：对目标序列遮蔽未来信息，保持解码器的自回归属性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9xCyHjS_sL2JFI7Uv4ho-11" value="&lt;div style=&quot;text-align: justify;&quot;&gt;未来掩蔽操作：对目标序列遮蔽未来信息，保持解码器的自回归属性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="210" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
